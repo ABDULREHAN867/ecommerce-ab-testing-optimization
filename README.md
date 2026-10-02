@@ -30,6 +30,7 @@ As a Data Analyst, the goal was to:
 ---
 
 ## 🔬 Experimentation & Statistical Methodology
+![A/B Test Statistical Summary](ab_summary_table.png)
 
 ### 1. Data Audit & Preprocessing
 * Removed duplicate transaction logs ensuring single-user journey integrity.
