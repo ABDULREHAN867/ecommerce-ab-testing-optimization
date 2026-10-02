@@ -63,6 +63,7 @@ To protect against Simpson's Paradox, performance was segmented across user tier
 ---
 
 ## 📈 Executive Dashboard Features
+![Executive Dashboard Preview](dashboard_preview.png)
 * **Dynamic KPI Scorecards:** Real-time visibility into traffic volume, baseline rates, variant conversion, and statistical significance.
 * **Segment Clustered Bar Visuals:** Side-by-side performance validation preventing cohort cannibalization.
 * **Interactive Slicers:** Dynamic filtering by device type and customer cohorts.
