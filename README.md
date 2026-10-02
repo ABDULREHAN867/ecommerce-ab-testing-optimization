@@ -1,7 +1,6 @@
 # 🛒 E-Commerce Checkout A/B Testing & Revenue Optimization
 
 An end-to-end e-commerce experimentation project evaluating the business impact of a **One-Click Instant Checkout** feature (Variant B) against the traditional checkout flow (Control A) on 2,489 unique user journeys using **Advanced Excel** and **Statistical Hypothesis Testing**.
-![Executive Dashboard Preview](dashboard_preview.png)
 
 ---
 
